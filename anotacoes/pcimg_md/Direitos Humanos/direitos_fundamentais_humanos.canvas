@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"e5e8e89f36a593af","type":"text","text":"Ordem internacional (Sociedade Internacional)","x":-481,"y":-15,"width":423,"height":155,"color":"4"},
+		{"id":"4d7959765ca75a4c","type":"text","text":"Ordem interna (Estatal)","x":-481,"y":-480,"width":423,"height":155,"color":"4"},
+		{"id":"7f75b7ca8c5b8c72","type":"text","text":"Direitos Fundamentais","x":49,"y":-449,"width":441,"height":93,"color":"4"},
+		{"id":"de73c4ea025aa54c","type":"text","text":"Direitos Humanos","x":49,"y":16,"width":441,"height":93,"color":"4"},
+		{"id":"4f71e1b4478df32e","type":"text","text":"Direito das Pessoas\n","x":-940,"y":-232,"width":283,"height":93,"color":"4"}
+	],
+	"edges":[
+		{"id":"f25180497507898c","fromNode":"e5e8e89f36a593af","fromSide":"right","toNode":"de73c4ea025aa54c","toSide":"left"},
+		{"id":"2a0c589c42c221b7","fromNode":"4d7959765ca75a4c","fromSide":"right","toNode":"7f75b7ca8c5b8c72","toSide":"left"},
+		{"id":"470588671d42b380","fromNode":"4f71e1b4478df32e","fromSide":"right","toNode":"4d7959765ca75a4c","toSide":"left"},
+		{"id":"9bdac8abef98e244","fromNode":"4f71e1b4478df32e","fromSide":"right","toNode":"e5e8e89f36a593af","toSide":"left"}
+	]
+}

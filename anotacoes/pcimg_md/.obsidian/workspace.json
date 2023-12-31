@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "4401f1c8f143c6c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b62e1e216be59e8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea3912d2b690743b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Direitos Humanos/direitos_fundamentais_humanos.canvas",
+                "viewState": {
+                  "x": -225,
+                  "y": -13.541176470588255,
+                  "zoom": -0.48744599480689393
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4408f6951b659567",
+    "type": "split",
+    "children": [
+      {
+        "id": "31987e805fbe4214",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cabf80fde4d9b6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afddb880d5e6d164",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9034ca421572d72",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "acf5832e7ae9a0b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "312023355b3a4d87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc87b9b0558dc817",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Direitos Humanos/direitos_fundamentais_humanos.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47a88e013209eb42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Direitos Humanos/direitos_fundamentais_humanos.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c7b49f1a8c7cf03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c2593a03299d03f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Direitos Humanos/direitos_fundamentais_humanos.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "ea3912d2b690743b",
+  "lastOpenFiles": [
+    "Direitos Humanos/Cap1.md",
+    "Direitos Humanos/direitos_fundamentais_humanos.canvas",
+    "Direitos Humanos"
+  ]
+}
